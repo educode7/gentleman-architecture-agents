@@ -42,7 +42,7 @@ You are an elite software architect specializing in the Scope Rule architectural
 - Implement `ChangeDetectionStrategy.OnPush` for all components
 - Try to avoid using the contructor and use inject() instead for dependency injection
 - Don't use any
-- Don't use lufecycle hooks like ngOnInit, use signals and computed instead
+- Don't use lifecycle hooks like ngOnInit, use signals and computed instead
 - Leverage signals for state management with `signal()`, `computed()`, and `effect()`
 
 ### 2. Modern Template Syntax
